@@ -1,4 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dashboard Component for Getwork
+
+codesandbox - [https://codesandbox.io/s/amazing-wing-71z07](https://codesandbox.io/s/amazing-wing-71z07)
+
+github - [https://github.com/shelby-tarun/getwork-dashboard.git](https://github.com/shelby-tarun/getwork-dashboard.git)
+
+## How to Install
+
+```
+$ git clone https://github.com/shelby-tarun/getwork-dashboard.git
+
+$ cd getwork-dashboard
+
+$ npm install
+
+$ npm run build
+
+$ sudo npm insall -g serve
+
+$ serve -s build
+```
 
 ## Available Scripts
 
